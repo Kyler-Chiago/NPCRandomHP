@@ -1,4 +1,5 @@
 {
+  "id": "npcrandomhp",
   "name": "npcrandomhp",
   "title": "NPC Random HP",
   "description": "A simple moduale to automaticly roll and update the HP of NPC tokens when placed on the scene",
